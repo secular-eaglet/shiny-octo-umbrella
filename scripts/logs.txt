@@ -23,3 +23,4 @@ WebSockets Blockchain If you can dream it, you can do it. Edge Computing Success
 Data Science OAuth Content Delivery Network Docker If you can dream it, you can do it. Deployment Container Orchestration Framework
 Deployment UX Optimization Code Review Work hard in silence, let your success be your noise. Container Orchestration RabbitMQ API Gateway
 To be the best, you must be able to handle the worst. Framework Load Balancing Deployment Kubernetes CI/CD UX Optimization Work hard in silence, let your success be your noise. Artificial Intelligence Neural Networks Event Sourcing Cache Invalidation API
+Message Queue NLP Deployment Success usually comes to those who are too busy to be looking for it. Pull Request Edge Computing
