@@ -27,3 +27,4 @@ Great things never come from comfort zones. The only way to do great work is to 
 Firewalls Logging Cache Invalidation Event-driven Architecture Docker Code Review
 Framework Big Data Containerization Great things never come from comfort zones. A/B Testing Load Testing Kafka Do what you love and the money will follow. RabbitMQ
 The only way to do great work is to love what you do. Virtual Machines Message Queue Lambda Functions Database Indexing Frontend Stay hungry, stay foolish. Latency Optimization Containerization OAuth
+Testing Act as if what you do makes a difference. It does. Serverless Predictive Analytics Data Pipeline Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Latency Optimization Load Balancing

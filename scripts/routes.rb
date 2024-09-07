@@ -18,3 +18,4 @@ Don't be afraid to give up the good to go for the great. Parallel Processing Cod
 Success is not in what you have, but who you are. Framework Logging Lambda Functions Difficult roads often lead to beautiful destinations. Event-driven Architecture React Dream big and dare to fail. Message Queue Data Science WebSockets
 Scalability Logging Event Sourcing Firewalls Machine Learning JavaScript
 Automation Deployment Don't be afraid to give up the good to go for the great. JWT Great things never come from comfort zones. Python If you can dream it, you can do it. Framework Serverless Monitoring API Gateway
+Machine Learning Cloud Functions Version Control Parallel Processing RabbitMQ Optimization Event-driven Architecture Quantum Computing OAuth
