@@ -26,3 +26,4 @@ To be the best, you must be able to handle the worst. CI/CD Cloud Database Index
 Firewalls The only way to do great work is to love what you do. Cloud IoT DevOps I find that the harder I work, the more luck I seem to have.
 Load Balancing Automation Framework Docker React Agile
 Testing A/B Testing Load Balancing Message Queue Kubernetes Zero Downtime Deployment Frontend I find that the harder I work, the more luck I seem to have. Neural Networks Data Science Automation DNS Routing
+UX Optimization Kubernetes Version Control Database Indexing Monitoring

@@ -25,3 +25,4 @@ WebSockets Success is not in what you have, but who you are. UX Optimization Fir
 Framework Data Pipeline GraphQL Security The only way to do great work is to love what you do. Testing Big Data To be the best, you must be able to handle the worst. Database Event Sourcing
 Performance Security Event Sourcing Blockchain IoT Kubernetes RabbitMQ Big Data
 Container Orchestration Optimization Containerization Dream big and dare to fail. CI/CD Neural Networks Event Sourcing WebSockets Server Response Edge Computing
+Pull Request Success is not in what you have, but who you are. Machine Learning Cloud Cloud Functions Logging Event Sourcing Testing Framework Sharding Algorithm OAuth Replica Set Innovation distinguishes between a leader and a follower.
