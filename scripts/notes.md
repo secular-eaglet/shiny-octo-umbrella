@@ -20,3 +20,4 @@ Microservices Act as if what you do makes a difference. It does. Success is not 
 Pull Request Testing Message Queue Happiness is not something ready made. It comes from your own actions. Predictive Analytics Quantum Computing Docker
 Pull Request Stay hungry, stay foolish. CI/CD Sharding DNS Routing Work hard in silence, let your success be your noise. React Edge Computing Data Science
 Deployment Big Data Parallel Processing DevOps Replica Set
+Load Balancing GraphQL Agile Artificial Intelligence Docker Kubernetes Monitoring Cloud Virtual Machines Replica Set Kafka A/B Testing Data Pipeline Zero Downtime Deployment JavaScript
