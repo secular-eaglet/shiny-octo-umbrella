@@ -20,3 +20,4 @@ The only way to do great work is to love what you do. IoT Testing Success is not
 Act as if what you do makes a difference. It does. Automation Container Orchestration Code Review Simplicity is the ultimate sophistication. Optimization GraphQL
 CI/CD Automation Cloud NLP Containerization Distributed Systems Difficult roads often lead to beautiful destinations. Container Orchestration Lambda Functions API Gateway
 Difficult roads often lead to beautiful destinations. Optimization Machine Learning Edge Computing Distributed Systems
+Logging Serverless A/B Testing JWT Message Queue Kubernetes Python Difficult roads often lead to beautiful destinations. Security React Firewalls Zero Downtime Deployment Agile
