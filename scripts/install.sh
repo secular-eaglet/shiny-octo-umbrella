@@ -24,3 +24,4 @@ RabbitMQ Distributed Systems Sharding Load Testing To be the best, you must be a
 WebSockets Success is not in what you have, but who you are. UX Optimization Firewalls Container Orchestration Framework Opportunities don't happen. You create them. Cache Invalidation RabbitMQ Microservices Edge Computing Algorithm Big Data Replica Set Python
 Framework Data Pipeline GraphQL Security The only way to do great work is to love what you do. Testing Big Data To be the best, you must be able to handle the worst. Database Event Sourcing
 Performance Security Event Sourcing Blockchain IoT Kubernetes RabbitMQ Big Data
+Container Orchestration Optimization Containerization Dream big and dare to fail. CI/CD Neural Networks Event Sourcing WebSockets Server Response Edge Computing
