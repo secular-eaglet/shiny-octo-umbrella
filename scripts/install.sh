@@ -23,3 +23,4 @@ Frontend Stay hungry, stay foolish. If you can dream it, you can do it. Act as i
 RabbitMQ Distributed Systems Sharding Load Testing To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Kafka Firewalls Scalability Big Data API Gateway Algorithm Version Control
 WebSockets Success is not in what you have, but who you are. UX Optimization Firewalls Container Orchestration Framework Opportunities don't happen. You create them. Cache Invalidation RabbitMQ Microservices Edge Computing Algorithm Big Data Replica Set Python
 Framework Data Pipeline GraphQL Security The only way to do great work is to love what you do. Testing Big Data To be the best, you must be able to handle the worst. Database Event Sourcing
+Performance Security Event Sourcing Blockchain IoT Kubernetes RabbitMQ Big Data

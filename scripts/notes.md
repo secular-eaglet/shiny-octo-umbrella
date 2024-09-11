@@ -19,3 +19,4 @@ Quantum Computing Success doesn’t just find you. You have to go out and get it. 
 Microservices Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Pull Request Zero Downtime Deployment Great things never come from comfort zones. Serverless Opportunities don't happen. You create them. Predictive Analytics Sharding Testing Database
 Pull Request Testing Message Queue Happiness is not something ready made. It comes from your own actions. Predictive Analytics Quantum Computing Docker
 Pull Request Stay hungry, stay foolish. CI/CD Sharding DNS Routing Work hard in silence, let your success be your noise. React Edge Computing Data Science
+Deployment Big Data Parallel Processing DevOps Replica Set
