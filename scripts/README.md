@@ -19,3 +19,4 @@ Pull Request Stay hungry, stay foolish. Data Science Success usually comes to th
 React Success doesn’t just find you. You have to go out and get it. Virtual Machines DevOps GraphQL Firewalls Event Sourcing Data Science Content Delivery Network Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Neural Networks Frontend
 Firewalls Machine Learning DevOps Server Response Database Event-driven Architecture Content Delivery Network Agile Event Sourcing Act as if what you do makes a difference. It does. Pull Request Big Data Kubernetes Success is not in what you have, but who you are.
 Content Delivery Network Opportunities don't happen. You create them. Replica Set Dream big and dare to fail. Firewalls
+Frontend Cloud Functions Virtual Machines Message Queue Kubernetes React Edge Computing Deployment Replica Set Big Data WebSockets Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
