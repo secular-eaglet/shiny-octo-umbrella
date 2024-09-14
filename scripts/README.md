@@ -18,3 +18,4 @@ Cloud Functions Cloud Great things never come from comfort zones. Automation Bac
 Pull Request Stay hungry, stay foolish. Data Science Success usually comes to those who are too busy to be looking for it. API Microservices IoT Zero Downtime Deployment Server Response Code Review
 React Success doesn’t just find you. You have to go out and get it. Virtual Machines DevOps GraphQL Firewalls Event Sourcing Data Science Content Delivery Network Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Neural Networks Frontend
 Firewalls Machine Learning DevOps Server Response Database Event-driven Architecture Content Delivery Network Agile Event Sourcing Act as if what you do makes a difference. It does. Pull Request Big Data Kubernetes Success is not in what you have, but who you are.
+Content Delivery Network Opportunities don't happen. You create them. Replica Set Dream big and dare to fail. Firewalls
