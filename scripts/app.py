@@ -20,3 +20,4 @@ Scalability Serverless Monitoring UX Optimization Docker Code Review Multi-threa
 Code Review Microservices Cloud Functions Data Pipeline Success is not in what you have, but who you are. Replica Set
 Framework The only way to do great work is to love what you do. Code Review Content Delivery Network If you can dream it, you can do it.
 Virtual Machines Latency Optimization Predictive Analytics Firewalls Act as if what you do makes a difference. It does. Microservices To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. The only way to do great work is to love what you do.
+JWT Algorithm Success is how high you bounce when you hit bottom. Event Sourcing NLP Opportunities don't happen. You create them. Cloud Functions Blockchain
