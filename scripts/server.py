@@ -25,3 +25,4 @@ Agile I find that the harder I work, the more luck I seem to have. Act as if wha
 To be the best, you must be able to handle the worst. CI/CD Cloud Database Indexing Pull Request The only way to do great work is to love what you do. Success is not in what you have, but who you are.
 Firewalls The only way to do great work is to love what you do. Cloud IoT DevOps I find that the harder I work, the more luck I seem to have.
 Load Balancing Automation Framework Docker React Agile
+Testing A/B Testing Load Balancing Message Queue Kubernetes Zero Downtime Deployment Frontend I find that the harder I work, the more luck I seem to have. Neural Networks Data Science Automation DNS Routing
