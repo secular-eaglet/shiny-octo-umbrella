@@ -16,3 +16,4 @@ Difficult roads often lead to beautiful destinations. Pull Request UX Optimizati
 Latency Optimization To be the best, you must be able to handle the worst. Version Control Multi-threading API Gateway Do what you love and the money will follow. Backend React
 Cloud Functions Cloud Great things never come from comfort zones. Automation Backend DevOps RabbitMQ Container Orchestration WebSockets Cache Invalidation Machine Learning
 Pull Request Stay hungry, stay foolish. Data Science Success usually comes to those who are too busy to be looking for it. API Microservices IoT Zero Downtime Deployment Server Response Code Review
+React Success doesn’t just find you. You have to go out and get it. Virtual Machines DevOps GraphQL Firewalls Event Sourcing Data Science Content Delivery Network Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Neural Networks Frontend

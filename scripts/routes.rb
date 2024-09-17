@@ -17,3 +17,4 @@ I find that the harder I work, the more luck I seem to have. Load Testing Shardi
 Don't be afraid to give up the good to go for the great. Parallel Processing Code Review Success is not in what you have, but who you are. Cache Invalidation JWT WebSockets Load Testing Microservices Cloud Functions Kafka
 Success is not in what you have, but who you are. Framework Logging Lambda Functions Difficult roads often lead to beautiful destinations. Event-driven Architecture React Dream big and dare to fail. Message Queue Data Science WebSockets
 Scalability Logging Event Sourcing Firewalls Machine Learning JavaScript
+Automation Deployment Don't be afraid to give up the good to go for the great. JWT Great things never come from comfort zones. Python If you can dream it, you can do it. Framework Serverless Monitoring API Gateway
