@@ -25,3 +25,4 @@ To be the best, you must be able to handle the worst. Performance Sharding Load 
 Virtual Machines Testing Agile Latency Optimization React Great things never come from comfort zones. CI/CD Predictive Analytics UX Optimization Distributed Systems Load Testing Act as if what you do makes a difference. It does. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. WebSockets
 Great things never come from comfort zones. The only way to do great work is to love what you do. WebSockets Database Indexing Content Delivery Network Data Science DevOps Testing Message Queue Logging Cloud To be the best, you must be able to handle the worst. JavaScript Security React
 Firewalls Logging Cache Invalidation Event-driven Architecture Docker Code Review
+Framework Big Data Containerization Great things never come from comfort zones. A/B Testing Load Testing Kafka Do what you love and the money will follow. RabbitMQ
