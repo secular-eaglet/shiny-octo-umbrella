@@ -19,3 +19,4 @@ Parallel Processing To be the best, you must be able to handle the worst. Scalab
 Algorithm Framework API Gateway Data Pipeline Event-driven Architecture Version Control NLP Docker Optimization
 IoT Great things never come from comfort zones. NLP Sharding Python Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Agile Cache Invalidation Parallel Processing Success is how high you bounce when you hit bottom. Serverless
 A/B Testing Docker Deployment Python Sharding Automation Algorithm Backend Big Data JavaScript
+Great things never come from comfort zones. IoT Frontend Testing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Cloud Functions Data Science React If you can dream it, you can do it. Database Indexing Microservices Database Security JavaScript
