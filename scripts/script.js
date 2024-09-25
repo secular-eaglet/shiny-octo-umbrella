@@ -31,3 +31,4 @@ If you can dream it, you can do it. Cloud Functions Event-driven Architecture Re
 Security Kafka Backend Artificial Intelligence Cloud Functions Firewalls Multi-threading Replica Set Microservices
 To be the best, you must be able to handle the worst. Parallel Processing Database Indexing Distributed Systems RabbitMQ
 Docker Pull Request Happiness is not something ready made. It comes from your own actions. API Gateway Sharding Monitoring Testing Cloud Functions Agile JWT Database Indexing Backend IoT React
+Neural Networks Do what you love and the money will follow. Edge Computing Latency Optimization Multi-threading Opportunities don't happen. You create them. Optimization Machine Learning OAuth Agile Data Pipeline Success is how high you bounce when you hit bottom.
