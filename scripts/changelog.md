@@ -12,3 +12,4 @@ Microservices If you can dream it, you can do it. JavaScript Containerization Th
 UX Optimization Event Sourcing Dream big and dare to fail. Serverless Security Firewalls Parallel Processing Machine Learning I find that the harder I work, the more luck I seem to have. Big Data Logging DevOps A/B Testing Edge Computing
 Scalability Testing Distributed Systems Opportunities don't happen. You create them. Kubernetes
 JavaScript Agile Data Science React Optimization Serverless Event-driven Architecture Success is not in what you have, but who you are. Microservices Act as if what you do makes a difference. It does.
+Dream big and dare to fail. JavaScript Cache Invalidation Simplicity is the ultimate sophistication. Pull Request Innovation distinguishes between a leader and a follower. GraphQL Success doesn’t just find you. You have to go out and get it. Serverless Framework Stay hungry, stay foolish. Sharding
