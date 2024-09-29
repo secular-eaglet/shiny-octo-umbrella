@@ -30,3 +30,4 @@ Database Kafka Container Orchestration Parallel Processing Content Delivery Netw
 If you can dream it, you can do it. Cloud Functions Event-driven Architecture Replica Set Neural Networks Multi-threading Happiness is not something ready made. It comes from your own actions. Data Science Cloud Blockchain
 Security Kafka Backend Artificial Intelligence Cloud Functions Firewalls Multi-threading Replica Set Microservices
 To be the best, you must be able to handle the worst. Parallel Processing Database Indexing Distributed Systems RabbitMQ
+Docker Pull Request Happiness is not something ready made. It comes from your own actions. API Gateway Sharding Monitoring Testing Cloud Functions Agile JWT Database Indexing Backend IoT React
