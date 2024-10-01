@@ -13,3 +13,4 @@ Testing Load Balancing Success is how high you bounce when you hit bottom. Datab
 Automation Framework Microservices Edge Computing Kafka Pull Request
 IoT Replica Set DNS Routing Docker Containerization API Gateway Frontend UX Optimization Optimization
 OAuth Pull Request Docker IoT Happiness is not something ready made. It comes from your own actions. Predictive Analytics Security
+Data Pipeline Do what you love and the money will follow. Code Review Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Distributed Systems Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Neural Networks Blockchain Docker Container Orchestration
