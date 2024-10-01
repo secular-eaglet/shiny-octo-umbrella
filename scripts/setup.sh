@@ -16,3 +16,4 @@ Testing Replica Set Success is not in what you have, but who you are. Multi-thre
 Multi-threading Sharding Database API Load Balancing Artificial Intelligence If you can dream it, you can do it. Data Science
 Logging Difficult roads often lead to beautiful destinations. Virtual Machines Scalability Replica Set JavaScript
 Monitoring Latency Optimization Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. NLP Logging Frontend Serverless API Gateway Data Pipeline DevOps Microservices UX Optimization
+Microservices Opportunities don't happen. You create them. Kafka Zero Downtime Deployment Scalability Stay hungry, stay foolish. Event Sourcing Testing I find that the harder I work, the more luck I seem to have. Containerization Content Delivery Network

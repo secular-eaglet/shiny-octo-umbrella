@@ -16,3 +16,4 @@ Data Science Docker Kubernetes Multi-threading Stay hungry, stay foolish. DevOps
 DevOps Cache Invalidation Do what you love and the money will follow. Framework Content Delivery Network A/B Testing Opportunities don't happen. You create them.
 Replica Set Message Queue Monitoring Virtual Machines Database Data Pipeline Kafka Scalability Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does.
 Kafka Security UX Optimization Cloud Functions A/B Testing Containerization Kubernetes Data Pipeline
+Kubernetes Load Testing Success doesn’t just find you. You have to go out and get it. Edge Computing Success is not in what you have, but who you are. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Performance Load Balancing
