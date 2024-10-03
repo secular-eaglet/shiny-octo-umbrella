@@ -17,3 +17,4 @@ Difficult roads often lead to beautiful destinations. Distributed Systems Succes
 Agile Pull Request Automation Framework Dream big and dare to fail. Don't be afraid to give up the good to go for the great. If you can dream it, you can do it.
 Testing Blockchain Code Review Automation Python NLP React Neural Networks
 Scalability Serverless Monitoring UX Optimization Docker Code Review Multi-threading Python Frontend Cloud GraphQL Success usually comes to those who are too busy to be looking for it. JavaScript
+Code Review Microservices Cloud Functions Data Pipeline Success is not in what you have, but who you are. Replica Set
