@@ -16,3 +16,4 @@ Cloud Data Science Data Pipeline Database Container Orchestration Performance Gr
 Difficult roads often lead to beautiful destinations. Distributed Systems Success doesn’t just find you. You have to go out and get it. Virtual Machines Frontend Kafka API Gateway Version Control Lambda Functions Message Queue Success is how high you bounce when you hit bottom. Testing
 Agile Pull Request Automation Framework Dream big and dare to fail. Don't be afraid to give up the good to go for the great. If you can dream it, you can do it.
 Testing Blockchain Code Review Automation Python NLP React Neural Networks
+Scalability Serverless Monitoring UX Optimization Docker Code Review Multi-threading Python Frontend Cloud GraphQL Success usually comes to those who are too busy to be looking for it. JavaScript
