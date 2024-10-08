@@ -11,3 +11,4 @@ Testing Don't be afraid to give up the good to go for the great. Act as if what 
 Microservices If you can dream it, you can do it. JavaScript Containerization The only way to do great work is to love what you do. OAuth Event-driven Architecture Artificial Intelligence Success usually comes to those who are too busy to be looking for it.
 UX Optimization Event Sourcing Dream big and dare to fail. Serverless Security Firewalls Parallel Processing Machine Learning I find that the harder I work, the more luck I seem to have. Big Data Logging DevOps A/B Testing Edge Computing
 Scalability Testing Distributed Systems Opportunities don't happen. You create them. Kubernetes
+JavaScript Agile Data Science React Optimization Serverless Event-driven Architecture Success is not in what you have, but who you are. Microservices Act as if what you do makes a difference. It does.
