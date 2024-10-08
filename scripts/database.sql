@@ -12,3 +12,4 @@ Distributed Systems Load Balancing Message Queue RabbitMQ Neural Networks Event-
 Testing Load Balancing Success is how high you bounce when you hit bottom. Database Don't be afraid to give up the good to go for the great. Deployment Firewalls
 Automation Framework Microservices Edge Computing Kafka Pull Request
 IoT Replica Set DNS Routing Docker Containerization API Gateway Frontend UX Optimization Optimization
+OAuth Pull Request Docker IoT Happiness is not something ready made. It comes from your own actions. Predictive Analytics Security

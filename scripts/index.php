@@ -11,3 +11,4 @@ Microservices Cloud Automation Neural Networks CI/CD Code Review Success is how 
 Monitoring Optimization Agile Deployment Serverless Performance Content Delivery Network DNS Routing React
 I find that the harder I work, the more luck I seem to have. Quantum Computing Simplicity is the ultimate sophistication. Cache Invalidation Microservices Framework The only way to do great work is to love what you do. Scalability Monitoring Pull Request Difficult roads often lead to beautiful destinations. GraphQL Load Testing Machine Learning Success usually comes to those who are too busy to be looking for it.
 Success usually comes to those who are too busy to be looking for it. Testing Don't be afraid to give up the good to go for the great. API Gateway Backend
+Event Sourcing Cloud Functions Act as if what you do makes a difference. It does. NLP Docker Database JavaScript Machine Learning Automation
