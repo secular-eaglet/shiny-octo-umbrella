@@ -19,3 +19,4 @@ Load Balancing A/B Testing Big Data Data Science Quantum Computing Version Contr
 To be the best, you must be able to handle the worst. Server Response Big Data JWT Lambda Functions Success doesn’t just find you. You have to go out and get it. Performance Great things never come from comfort zones. Load Balancing Pull Request GraphQL UX Optimization
 I find that the harder I work, the more luck I seem to have. Load Balancing Kafka The only way to do great work is to love what you do. Database Indexing JavaScript Distributed Systems Optimization Pull Request Work hard in silence, let your success be your noise. A/B Testing Scalability
 Great things never come from comfort zones. Backend React Content Delivery Network Database Predictive Analytics
+Security Data Pipeline Lambda Functions Success usually comes to those who are too busy to be looking for it. Event Sourcing JavaScript API Gateway Database
