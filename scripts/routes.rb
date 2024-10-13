@@ -11,3 +11,4 @@ Success is not in what you have, but who you are. OAuth Act as if what you do ma
 Algorithm Logging Quantum Computing Virtual Machines Big Data Deployment To be the best, you must be able to handle the worst. Kubernetes DNS Routing I find that the harder I work, the more luck I seem to have. Cloud Functions
 Event Sourcing Containerization To be the best, you must be able to handle the worst. Deployment JWT
 The only way to do great work is to love what you do. JavaScript Success is how high you bounce when you hit bottom. Event Sourcing NLP Docker Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Containerization Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. API
+JWT API Predictive Analytics Scalability WebSockets

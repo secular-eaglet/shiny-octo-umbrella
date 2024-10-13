@@ -18,3 +18,4 @@ Virtual Machines GraphQL IoT Quantum Computing Stay hungry, stay foolish. Kubern
 Database Indexing Microservices Multi-threading Cloud Functions Frontend
 The only way to do great work is to love what you do. IoT Testing Success is not in what you have, but who you are. Event Sourcing
 Act as if what you do makes a difference. It does. Automation Container Orchestration Code Review Simplicity is the ultimate sophistication. Optimization GraphQL
+CI/CD Automation Cloud NLP Containerization Distributed Systems Difficult roads often lead to beautiful destinations. Container Orchestration Lambda Functions API Gateway
