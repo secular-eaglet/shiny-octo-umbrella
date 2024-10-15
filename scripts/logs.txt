@@ -17,3 +17,4 @@ DevOps Blockchain Machine Learning Dream big and dare to fail. Load Testing Do w
 Frontend Kubernetes Automation Great things never come from comfort zones. Big Data Work hard in silence, let your success be your noise. DNS Routing Python Server Response
 Neural Networks Parallel Processing The only way to do great work is to love what you do. Container Orchestration To be the best, you must be able to handle the worst. Server Response If you can dream it, you can do it. GraphQL Framework Docker Serverless Dream big and dare to fail. Event Sourcing Don't be afraid to give up the good to go for the great.
 Container Orchestration DevOps Simplicity is the ultimate sophistication. WebSockets Cache Invalidation Optimization Blockchain Docker Success doesn’t just find you. You have to go out and get it. Database Lambda Functions Neural Networks Great things never come from comfort zones. Testing
+OAuth React JWT Algorithm Kafka Cloud
