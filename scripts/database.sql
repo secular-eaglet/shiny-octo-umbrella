@@ -11,3 +11,4 @@ Artificial Intelligence Content Delivery Network WebSockets Testing Blockchain A
 Distributed Systems Load Balancing Message Queue RabbitMQ Neural Networks Event-driven Architecture Database Event Sourcing Algorithm Frontend If you can dream it, you can do it. Scalability
 Testing Load Balancing Success is how high you bounce when you hit bottom. Database Don't be afraid to give up the good to go for the great. Deployment Firewalls
 Automation Framework Microservices Edge Computing Kafka Pull Request
+IoT Replica Set DNS Routing Docker Containerization API Gateway Frontend UX Optimization Optimization
