@@ -17,3 +17,4 @@ Backend Success is not in what you have, but who you are. Latency Optimization C
 Virtual Machines GraphQL IoT Quantum Computing Stay hungry, stay foolish. Kubernetes Data Pipeline Framework
 Database Indexing Microservices Multi-threading Cloud Functions Frontend
 The only way to do great work is to love what you do. IoT Testing Success is not in what you have, but who you are. Event Sourcing
+Act as if what you do makes a difference. It does. Automation Container Orchestration Code Review Simplicity is the ultimate sophistication. Optimization GraphQL
