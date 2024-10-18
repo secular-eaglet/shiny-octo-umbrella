@@ -12,3 +12,4 @@ API Act as if what you do makes a difference. It does. JavaScript Event-driven A
 I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. React Cloud Functions Edge Computing IoT Firewalls WebSockets Sharding
 Blockchain Server Response Frontend API Gateway Act as if what you do makes a difference. It does.
 Data Science RabbitMQ Event-driven Architecture I find that the harder I work, the more luck I seem to have. React Serverless Don't be afraid to give up the good to go for the great. Cache Invalidation UX Optimization Success is not in what you have, but who you are.
+Difficult roads often lead to beautiful destinations. Pull Request UX Optimization Logging Backend Performance Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow.
