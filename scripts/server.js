@@ -14,3 +14,4 @@ UX Optimization Difficult roads often lead to beautiful destinations. The only w
 Pull Request Deployment Data Pipeline Artificial Intelligence Quantum Computing Latency Optimization Big Data Kubernetes Zero Downtime Deployment
 Database Indexing Lambda Functions The only way to do great work is to love what you do. Serverless API Kafka React Work hard in silence, let your success be your noise.
 Testing Multi-threading NLP To be the best, you must be able to handle the worst. Message Queue Pull Request Version Control Edge Computing Success doesn’t just find you. You have to go out and get it. RabbitMQ Dream big and dare to fail. Machine Learning I find that the harder I work, the more luck I seem to have. Distributed Systems Event Sourcing
+Blockchain Parallel Processing Quantum Computing Containerization A/B Testing Sharding Cloud Functions Code Review Docker Success is how high you bounce when you hit bottom. DNS Routing
