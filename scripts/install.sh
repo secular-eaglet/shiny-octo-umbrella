@@ -16,3 +16,4 @@ Zero Downtime Deployment Stay hungry, stay foolish. Lambda Functions Agile Deplo
 Testing Message Queue Backend Work hard in silence, let your success be your noise. Serverless
 If you can dream it, you can do it. Latency Optimization Server Response Do what you love and the money will follow. Version Control Lambda Functions Event Sourcing Security Success is how high you bounce when you hit bottom. API Cache Invalidation
 Cache Invalidation Success is how high you bounce when you hit bottom. Lambda Functions Kafka Algorithm Database Indexing Difficult roads often lead to beautiful destinations. Load Balancing Containerization
+Security Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Containerization Kubernetes RabbitMQ Message Queue Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication.
