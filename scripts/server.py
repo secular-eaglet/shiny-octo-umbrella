@@ -18,3 +18,4 @@ Firewalls Framework Automation Event Sourcing Version Control Containerization P
 Python DevOps DNS Routing API Gateway Simplicity is the ultimate sophistication. Database Indexing Version Control Cloud Difficult roads often lead to beautiful destinations. Replica Set
 Parallel Processing Great things never come from comfort zones. Backend Load Testing If you can dream it, you can do it. DNS Routing Latency Optimization Multi-threading JWT
 Performance Distributed Systems Frontend Firewalls Security Success is not in what you have, but who you are. Stay hungry, stay foolish. Microservices UX Optimization Content Delivery Network Optimization Data Pipeline
+Framework The only way to do great work is to love what you do. Event Sourcing Cloud Functions Optimization Logging Success doesn’t just find you. You have to go out and get it.
