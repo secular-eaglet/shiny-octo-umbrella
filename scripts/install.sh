@@ -15,3 +15,4 @@ Python Opportunities don't happen. You create them. WebSockets JWT JavaScript I 
 Zero Downtime Deployment Stay hungry, stay foolish. Lambda Functions Agile Deployment Virtual Machines IoT
 Testing Message Queue Backend Work hard in silence, let your success be your noise. Serverless
 If you can dream it, you can do it. Latency Optimization Server Response Do what you love and the money will follow. Version Control Lambda Functions Event Sourcing Security Success is how high you bounce when you hit bottom. API Cache Invalidation
+Cache Invalidation Success is how high you bounce when you hit bottom. Lambda Functions Kafka Algorithm Database Indexing Difficult roads often lead to beautiful destinations. Load Balancing Containerization
