@@ -13,3 +13,4 @@ JWT Dream big and dare to fail. Message Queue Container Orchestration Lambda Fun
 Success is how high you bounce when you hit bottom. Code Review Parallel Processing Machine Learning Distributed Systems
 Edge Computing CI/CD Blockchain Stay hungry, stay foolish. Event-driven Architecture Neural Networks
 Cloud Data Science Data Pipeline Database Container Orchestration Performance Great things never come from comfort zones. Replica Set CI/CD Latency Optimization Innovation distinguishes between a leader and a follower. Docker Event-driven Architecture WebSockets Neural Networks
+Difficult roads often lead to beautiful destinations. Distributed Systems Success doesn’t just find you. You have to go out and get it. Virtual Machines Frontend Kafka API Gateway Version Control Lambda Functions Message Queue Success is how high you bounce when you hit bottom. Testing
