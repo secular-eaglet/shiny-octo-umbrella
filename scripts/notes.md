@@ -13,3 +13,4 @@ Edge Computing Difficult roads often lead to beautiful destinations. Dream big a
 DNS Routing Virtual Machines JWT Edge Computing Great things never come from comfort zones. Containerization RabbitMQ Python Cloud
 Security A/B Testing Act as if what you do makes a difference. It does. API Cache Invalidation Success usually comes to those who are too busy to be looking for it. React Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Kubernetes Load Balancing Testing
 Docker Security Neural Networks Machine Learning Content Delivery Network
+Message Queue Machine Learning Performance Pull Request Backend JWT Sharding Monitoring
