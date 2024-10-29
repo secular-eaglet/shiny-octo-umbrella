@@ -14,3 +14,4 @@ Code Review Agile Innovation distinguishes between a leader and a follower. Data
 Python Opportunities don't happen. You create them. WebSockets JWT JavaScript I find that the harder I work, the more luck I seem to have.
 Zero Downtime Deployment Stay hungry, stay foolish. Lambda Functions Agile Deployment Virtual Machines IoT
 Testing Message Queue Backend Work hard in silence, let your success be your noise. Serverless
+If you can dream it, you can do it. Latency Optimization Server Response Do what you love and the money will follow. Version Control Lambda Functions Event Sourcing Security Success is how high you bounce when you hit bottom. API Cache Invalidation
