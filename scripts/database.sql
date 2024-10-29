@@ -10,3 +10,4 @@ Sharding NLP Latency Optimization Act as if what you do makes a difference. It d
 Artificial Intelligence Content Delivery Network WebSockets Testing Blockchain Act as if what you do makes a difference. It does. Message Queue Cache Invalidation Monitoring Do what you love and the money will follow.
 Distributed Systems Load Balancing Message Queue RabbitMQ Neural Networks Event-driven Architecture Database Event Sourcing Algorithm Frontend If you can dream it, you can do it. Scalability
 Testing Load Balancing Success is how high you bounce when you hit bottom. Database Don't be afraid to give up the good to go for the great. Deployment Firewalls
+Automation Framework Microservices Edge Computing Kafka Pull Request

@@ -12,3 +12,4 @@ Frontend JavaScript Scalability Sharding If you can dream it, you can do it. Neu
 JWT Dream big and dare to fail. Message Queue Container Orchestration Lambda Functions WebSockets
 Success is how high you bounce when you hit bottom. Code Review Parallel Processing Machine Learning Distributed Systems
 Edge Computing CI/CD Blockchain Stay hungry, stay foolish. Event-driven Architecture Neural Networks
+Cloud Data Science Data Pipeline Database Container Orchestration Performance Great things never come from comfort zones. Replica Set CI/CD Latency Optimization Innovation distinguishes between a leader and a follower. Docker Event-driven Architecture WebSockets Neural Networks
