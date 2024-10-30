@@ -14,3 +14,4 @@ Success usually comes to those who are too busy to be looking for it. API Gatewa
 Logging Artificial Intelligence Multi-threading Cloud Data Pipeline Pull Request
 Scalability Multi-threading Message Queue The only way to do great work is to love what you do. Edge Computing Code Review Framework
 DNS Routing Parallel Processing Artificial Intelligence If you can dream it, you can do it. Pull Request Replica Set Cloud Functions Content Delivery Network Difficult roads often lead to beautiful destinations. Load Testing
+Performance Security Deployment Latency Optimization Data Science Container Orchestration Automation Containerization API Predictive Analytics Testing Neural Networks
