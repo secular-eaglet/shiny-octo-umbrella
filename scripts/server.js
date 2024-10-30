@@ -12,3 +12,4 @@ Version Control Happiness is not something ready made. It comes from your own ac
 Data Pipeline Backend The only way to do great work is to love what you do. Kafka Work hard in silence, let your success be your noise. Testing
 UX Optimization Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. JWT GraphQL Performance Automation DNS Routing Sharding Great things never come from comfort zones. API Serverless Predictive Analytics
 Pull Request Deployment Data Pipeline Artificial Intelligence Quantum Computing Latency Optimization Big Data Kubernetes Zero Downtime Deployment
+Database Indexing Lambda Functions The only way to do great work is to love what you do. Serverless API Kafka React Work hard in silence, let your success be your noise.
