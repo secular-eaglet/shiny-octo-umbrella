@@ -14,3 +14,4 @@ Algorithm API Neural Networks Distributed Systems OAuth Artificial Intelligence 
 Dream big and dare to fail. API DevOps Firewalls NLP Latency Optimization Stay hungry, stay foolish.
 Quantum Computing Load Testing Parallel Processing Kubernetes Zero Downtime Deployment IoT Great things never come from comfort zones. Firewalls Testing
 Backend Success is not in what you have, but who you are. Latency Optimization Cache Invalidation Neural Networks CI/CD Predictive Analytics Great things never come from comfort zones. Cloud Functions If you can dream it, you can do it. The only way to do great work is to love what you do. UX Optimization Multi-threading
+Virtual Machines GraphQL IoT Quantum Computing Stay hungry, stay foolish. Kubernetes Data Pipeline Framework
