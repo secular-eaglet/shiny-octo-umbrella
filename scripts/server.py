@@ -17,3 +17,4 @@ RabbitMQ Machine Learning Data Science API Virtual Machines Deployment Work hard
 Firewalls Framework Automation Event Sourcing Version Control Containerization Performance Edge Computing Innovation distinguishes between a leader and a follower.
 Python DevOps DNS Routing API Gateway Simplicity is the ultimate sophistication. Database Indexing Version Control Cloud Difficult roads often lead to beautiful destinations. Replica Set
 Parallel Processing Great things never come from comfort zones. Backend Load Testing If you can dream it, you can do it. DNS Routing Latency Optimization Multi-threading JWT
+Performance Distributed Systems Frontend Firewalls Security Success is not in what you have, but who you are. Stay hungry, stay foolish. Microservices UX Optimization Content Delivery Network Optimization Data Pipeline
