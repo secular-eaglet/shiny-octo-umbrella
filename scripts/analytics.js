@@ -15,3 +15,4 @@ Backend Distributed Systems Artificial Intelligence Success usually comes to tho
 UX Optimization Neural Networks Success doesn’t just find you. You have to go out and get it. Big Data Frontend Code Review Automation Data Science Cache Invalidation A/B Testing
 Machine Learning Server Response Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Dream big and dare to fail. Edge Computing Blockchain Python Agile Pull Request
 If you can dream it, you can do it. DNS Routing Innovation distinguishes between a leader and a follower. Distributed Systems Virtual Machines Success is how high you bounce when you hit bottom. Content Delivery Network IoT DevOps Success doesn’t just find you. You have to go out and get it. Blockchain
+Load Balancing A/B Testing Big Data Data Science Quantum Computing Version Control OAuth Testing GraphQL Work hard in silence, let your success be your noise. Frontend

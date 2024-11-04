@@ -13,3 +13,4 @@ Performance I find that the harder I work, the more luck I seem to have. Latency
 Code Review Agile Innovation distinguishes between a leader and a follower. Data Pipeline API Gateway NLP Docker Pull Request
 Python Opportunities don't happen. You create them. WebSockets JWT JavaScript I find that the harder I work, the more luck I seem to have.
 Zero Downtime Deployment Stay hungry, stay foolish. Lambda Functions Agile Deployment Virtual Machines IoT
+Testing Message Queue Backend Work hard in silence, let your success be your noise. Serverless
