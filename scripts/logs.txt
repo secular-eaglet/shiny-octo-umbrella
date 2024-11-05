@@ -13,3 +13,4 @@ Artificial Intelligence Data Science Kafka Scalability DNS Routing
 Do what you love and the money will follow. Code Review Cache Invalidation The only way to do great work is to love what you do. Multi-threading Success is not in what you have, but who you are. Opportunities don't happen. You create them. Event-driven Architecture
 Virtual Machines Cache Invalidation Frontend DNS Routing API Pull Request
 Backend Don't be afraid to give up the good to go for the great. Security The only way to do great work is to love what you do. Algorithm Stay hungry, stay foolish. Kubernetes
+DevOps Blockchain Machine Learning Dream big and dare to fail. Load Testing Do what you love and the money will follow. Quantum Computing API Gateway JWT Containerization Big Data Multi-threading Firewalls Success is not in what you have, but who you are. Framework
