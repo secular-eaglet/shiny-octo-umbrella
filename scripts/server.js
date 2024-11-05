@@ -10,3 +10,4 @@ Kafka Difficult roads often lead to beautiful destinations. Security Success is 
 Containerization Act as if what you do makes a difference. It does. WebSockets Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Machine Learning Cloud
 Version Control Happiness is not something ready made. It comes from your own actions. Frontend Automation RabbitMQ
 Data Pipeline Backend The only way to do great work is to love what you do. Kafka Work hard in silence, let your success be your noise. Testing
+UX Optimization Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. JWT GraphQL Performance Automation DNS Routing Sharding Great things never come from comfort zones. API Serverless Predictive Analytics

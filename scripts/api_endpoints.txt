@@ -12,3 +12,4 @@ API Gateway IoT Distributed Systems Machine Learning Innovation distinguishes be
 Frontend Don't be afraid to give up the good to go for the great. Data Pipeline Lambda Functions DNS Routing Docker Firewalls CI/CD Big Data Database Dream big and dare to fail. Blockchain
 Virtual Machines Data Pipeline Success is not in what you have, but who you are. NLP RabbitMQ Work hard in silence, let your success be your noise. CI/CD Optimization Microservices Load Balancing UX Optimization
 Work hard in silence, let your success be your noise. WebSockets Zero Downtime Deployment Serverless To be the best, you must be able to handle the worst. Event Sourcing Success doesn’t just find you. You have to go out and get it. API Gateway Cloud Functions API GraphQL Blockchain Docker
+Data Science Docker Kubernetes Multi-threading Stay hungry, stay foolish. DevOps Latency Optimization If you can dream it, you can do it. Framework
