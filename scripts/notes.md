@@ -11,3 +11,4 @@ Scalability Optimization Big Data Event-driven Architecture Agile Simplicity is 
 Innovation distinguishes between a leader and a follower. Dream big and dare to fail. NLP Kafka IoT
 Edge Computing Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Monitoring Container Orchestration Blockchain Code Review Lambda Functions Docker Deployment UX Optimization Kafka Event-driven Architecture Server Response Event Sourcing
 DNS Routing Virtual Machines JWT Edge Computing Great things never come from comfort zones. Containerization RabbitMQ Python Cloud
+Security A/B Testing Act as if what you do makes a difference. It does. API Cache Invalidation Success usually comes to those who are too busy to be looking for it. React Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Kubernetes Load Balancing Testing
