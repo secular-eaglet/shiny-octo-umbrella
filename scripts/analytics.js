@@ -14,3 +14,4 @@ Act as if what you do makes a difference. It does. Simplicity is the ultimate so
 Backend Distributed Systems Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Security DNS Routing Great things never come from comfort zones.
 UX Optimization Neural Networks Success doesn’t just find you. You have to go out and get it. Big Data Frontend Code Review Automation Data Science Cache Invalidation A/B Testing
 Machine Learning Server Response Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Dream big and dare to fail. Edge Computing Blockchain Python Agile Pull Request
+If you can dream it, you can do it. DNS Routing Innovation distinguishes between a leader and a follower. Distributed Systems Virtual Machines Success is how high you bounce when you hit bottom. Content Delivery Network IoT DevOps Success doesn’t just find you. You have to go out and get it. Blockchain
