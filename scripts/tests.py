@@ -11,3 +11,4 @@ Frontend Difficult roads often lead to beautiful destinations. Quantum Computing
 Container Orchestration Happiness is not something ready made. It comes from your own actions. Neural Networks Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have.
 Containerization Load Testing Predictive Analytics Success is not in what you have, but who you are. Parallel Processing Performance Dream big and dare to fail. Deployment UX Optimization Content Delivery Network Kubernetes WebSockets
 Database Indexing Don't be afraid to give up the good to go for the great. Event Sourcing IoT RabbitMQ Blockchain JavaScript Algorithm Cloud Functions Python React API DevOps
+Framework JavaScript Neural Networks Data Pipeline Frontend Machine Learning Data Science JWT Automation Microservices Monitoring Python Sharding UX Optimization Quantum Computing
