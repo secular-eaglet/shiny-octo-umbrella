@@ -10,3 +10,4 @@ Zero Downtime Deployment Virtual Machines Edge Computing Act as if what you do m
 Scalability Optimization Big Data Event-driven Architecture Agile Simplicity is the ultimate sophistication. Replica Set Do what you love and the money will follow. Code Review IoT Deployment Predictive Analytics
 Innovation distinguishes between a leader and a follower. Dream big and dare to fail. NLP Kafka IoT
 Edge Computing Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Monitoring Container Orchestration Blockchain Code Review Lambda Functions Docker Deployment UX Optimization Kafka Event-driven Architecture Server Response Event Sourcing
+DNS Routing Virtual Machines JWT Edge Computing Great things never come from comfort zones. Containerization RabbitMQ Python Cloud
