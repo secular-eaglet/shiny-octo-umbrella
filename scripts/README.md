@@ -8,3 +8,4 @@ Multi-threading Do what you love and the money will follow. Load Balancing JWT I
 Success is not in what you have, but who you are. Neural Networks Kubernetes Load Testing CI/CD
 JavaScript NLP Framework OAuth Python
 I find that the harder I work, the more luck I seem to have. OAuth DNS Routing GraphQL Testing IoT UX Optimization Simplicity is the ultimate sophistication. Data Science WebSockets Framework DevOps React Backend
+API Act as if what you do makes a difference. It does. JavaScript Event-driven Architecture Algorithm
