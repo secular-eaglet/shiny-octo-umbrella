@@ -7,3 +7,4 @@ Agile CI/CD Machine Learning Great things never come from comfort zones. Work ha
 Multi-threading Do what you love and the money will follow. Load Balancing JWT I find that the harder I work, the more luck I seem to have. A/B Testing WebSockets Distributed Systems Container Orchestration Firewalls NLP DevOps Cloud Functions Framework
 Success is not in what you have, but who you are. Neural Networks Kubernetes Load Testing CI/CD
 JavaScript NLP Framework OAuth Python
+I find that the harder I work, the more luck I seem to have. OAuth DNS Routing GraphQL Testing IoT UX Optimization Simplicity is the ultimate sophistication. Data Science WebSockets Framework DevOps React Backend
