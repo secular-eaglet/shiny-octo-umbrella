@@ -8,3 +8,4 @@ Difficult roads often lead to beautiful destinations. DNS Routing Multi-threadin
 Artificial Intelligence Docker The only way to do great work is to love what you do. Event Sourcing API Great things never come from comfort zones. JWT Python I find that the harder I work, the more luck I seem to have. Container Orchestration Distributed Systems Cloud Functions Scalability
 Kafka Difficult roads often lead to beautiful destinations. Security Success is how high you bounce when you hit bottom. Cloud Functions Zero Downtime Deployment Neural Networks
 Containerization Act as if what you do makes a difference. It does. WebSockets Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Machine Learning Cloud
+Version Control Happiness is not something ready made. It comes from your own actions. Frontend Automation RabbitMQ

@@ -8,3 +8,4 @@ Zero Downtime Deployment If you can dream it, you can do it. Success doesn’t jus
 Framework Agile Python OAuth CI/CD JWT Big Data Deployment Event-driven Architecture Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst.
 Event-driven Architecture OAuth If you can dream it, you can do it. DevOps Virtual Machines Artificial Intelligence Optimization NLP Database Pull Request Containerization Act as if what you do makes a difference. It does. WebSockets Success is how high you bounce when you hit bottom. Load Balancing
 React WebSockets Algorithm Agile Replica Set Happiness is not something ready made. It comes from your own actions. Python NLP Microservices GraphQL Event Sourcing Docker Zero Downtime Deployment Performance Parallel Processing
+If you can dream it, you can do it. Framework Machine Learning Load Balancing Logging
