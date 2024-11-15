@@ -11,3 +11,4 @@ I find that the harder I work, the more luck I seem to have. Great things never 
 Docker Work hard in silence, let your success be your noise. DNS Routing The only way to do great work is to love what you do. Database Indexing Event-driven Architecture Multi-threading
 Artificial Intelligence Data Science Kafka Scalability DNS Routing
 Do what you love and the money will follow. Code Review Cache Invalidation The only way to do great work is to love what you do. Multi-threading Success is not in what you have, but who you are. Opportunities don't happen. You create them. Event-driven Architecture
+Virtual Machines Cache Invalidation Frontend DNS Routing API Pull Request
