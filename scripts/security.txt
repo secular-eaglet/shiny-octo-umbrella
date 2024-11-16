@@ -10,3 +10,4 @@ Multi-threading I find that the harder I work, the more luck I seem to have. Loa
 Sharding Microservices I find that the harder I work, the more luck I seem to have. Data Science Logging DNS Routing Database Indexing Replica Set Machine Learning Monitoring Backend DevOps NLP
 WebSockets Content Delivery Network Framework API Gateway Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Event-driven Architecture Code Review Serverless
 Docker Deployment The only way to do great work is to love what you do. JWT Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions.
+Algorithm API Neural Networks Distributed Systems OAuth Artificial Intelligence Opportunities don't happen. You create them. Frontend Database Indexing Docker Virtual Machines DNS Routing Kafka Machine Learning Data Science
