@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Database 
 Success usually comes to those who are too busy to be looking for it. JWT Data Pipeline Performance Message Queue OAuth Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication.
 Difficult roads often lead to beautiful destinations. DNS Routing Multi-threading Cloud JavaScript Container Orchestration
 Artificial Intelligence Docker The only way to do great work is to love what you do. Event Sourcing API Great things never come from comfort zones. JWT Python I find that the harder I work, the more luck I seem to have. Container Orchestration Distributed Systems Cloud Functions Scalability
+Kafka Difficult roads often lead to beautiful destinations. Security Success is how high you bounce when you hit bottom. Cloud Functions Zero Downtime Deployment Neural Networks
