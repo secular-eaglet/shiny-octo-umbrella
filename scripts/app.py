@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Version Co
 Frontend JavaScript Scalability Sharding If you can dream it, you can do it. Neural Networks Cloud Functions Success is how high you bounce when you hit bottom. CI/CD
 JWT Dream big and dare to fail. Message Queue Container Orchestration Lambda Functions WebSockets
 Success is how high you bounce when you hit bottom. Code Review Parallel Processing Machine Learning Distributed Systems
+Edge Computing CI/CD Blockchain Stay hungry, stay foolish. Event-driven Architecture Neural Networks
