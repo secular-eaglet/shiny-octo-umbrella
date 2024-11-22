@@ -21,3 +21,4 @@ Distributed Systems API Optimization Neural Networks Work hard in silence, let y
 Distributed Systems Cloud Security Parallel Processing Monitoring Edge Computing Data Science Backend Load Balancing Simplicity is the ultimate sophistication.
 Agile Pull Request To be the best, you must be able to handle the worst. OAuth Distributed Systems Logging Success doesn’t just find you. You have to go out and get it.
 UX Optimization Database Indexing OAuth Simplicity is the ultimate sophistication. NLP Data Pipeline Parallel Processing Docker Message Queue Agile Great things never come from comfort zones. CI/CD Kafka Replica Set
+Success doesn’t just find you. You have to go out and get it. Monitoring RabbitMQ Load Balancing Message Queue Frontend Great things never come from comfort zones. Event-driven Architecture Edge Computing Sharding IoT

@@ -11,3 +11,4 @@ UX Optimization Kafka RabbitMQ Framework Blockchain Cache Invalidation Do what y
 Containerization Neural Networks Content Delivery Network Pull Request DevOps Code Review API Success is how high you bounce when you hit bottom. Automation
 Performance I find that the harder I work, the more luck I seem to have. Latency Optimization Code Review Don't be afraid to give up the good to go for the great. Agile React WebSockets
 Code Review Agile Innovation distinguishes between a leader and a follower. Data Pipeline API Gateway NLP Docker Pull Request
+Python Opportunities don't happen. You create them. WebSockets JWT JavaScript I find that the harder I work, the more luck I seem to have.
