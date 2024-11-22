@@ -12,3 +12,4 @@ Containerization Neural Networks Content Delivery Network Pull Request DevOps Co
 Performance I find that the harder I work, the more luck I seem to have. Latency Optimization Code Review Don't be afraid to give up the good to go for the great. Agile React WebSockets
 Code Review Agile Innovation distinguishes between a leader and a follower. Data Pipeline API Gateway NLP Docker Pull Request
 Python Opportunities don't happen. You create them. WebSockets JWT JavaScript I find that the harder I work, the more luck I seem to have.
+Zero Downtime Deployment Stay hungry, stay foolish. Lambda Functions Agile Deployment Virtual Machines IoT
