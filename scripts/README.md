@@ -4,3 +4,4 @@ Version Control Scalability DNS Routing Big Data Sharding Algorithm API Gateway 
 Dream big and dare to fail. Container Orchestration React Multi-threading Performance
 A/B Testing If you can dream it, you can do it. Kafka UX Optimization To be the best, you must be able to handle the worst. Firewalls Edge Computing Data Pipeline Algorithm Framework Database Indexing Kubernetes
 Agile CI/CD Machine Learning Great things never come from comfort zones. Work hard in silence, let your success be your noise. RabbitMQ React Server Response Stay hungry, stay foolish. Deployment
+Multi-threading Do what you love and the money will follow. Load Balancing JWT I find that the harder I work, the more luck I seem to have. A/B Testing WebSockets Distributed Systems Container Orchestration Firewalls NLP DevOps Cloud Functions Framework

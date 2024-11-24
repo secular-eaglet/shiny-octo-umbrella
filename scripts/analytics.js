@@ -13,3 +13,4 @@ API Server Response Great things never come from comfort zones. Distributed Syst
 Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. WebSockets Success usually comes to those who are too busy to be looking for it. API Gateway Serverless
 Backend Distributed Systems Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Security DNS Routing Great things never come from comfort zones.
 UX Optimization Neural Networks Success doesn’t just find you. You have to go out and get it. Big Data Frontend Code Review Automation Data Science Cache Invalidation A/B Testing
+Machine Learning Server Response Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Dream big and dare to fail. Edge Computing Blockchain Python Agile Pull Request
