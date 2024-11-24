@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Do what you love and th
 Database Load Testing JWT Blockchain Data Science Cache Invalidation Kafka Event Sourcing
 Containerization Cache Invalidation OAuth Blockchain React Success is not in what you have, but who you are. JavaScript Load Balancing Pull Request Edge Computing CI/CD Event-driven Architecture Don't be afraid to give up the good to go for the great. Predictive Analytics
 Testing Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Database Automation Predictive Analytics
+Microservices If you can dream it, you can do it. JavaScript Containerization The only way to do great work is to love what you do. OAuth Event-driven Architecture Artificial Intelligence Success usually comes to those who are too busy to be looking for it.
