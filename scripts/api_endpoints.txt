@@ -9,3 +9,4 @@ Cloud Functions Success is not in what you have, but who you are. Testing Parall
 Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Frontend Stay hungry, stay foolish. Big Data Cache Invalidation Kafka Success is not in what you have, but who you are. Security
 Quantum Computing Docker Database A/B Testing Data Pipeline Server Response
 API Gateway IoT Distributed Systems Machine Learning Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise.
+Frontend Don't be afraid to give up the good to go for the great. Data Pipeline Lambda Functions DNS Routing Docker Firewalls CI/CD Big Data Database Dream big and dare to fail. Blockchain

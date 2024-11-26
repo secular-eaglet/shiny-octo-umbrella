@@ -4,3 +4,4 @@ Don't be afraid to give up the good to go for the great. Success doesn’t just fi
 Docker Lambda Functions Kubernetes API Opportunities don't happen. You create them. Python Edge Computing Blockchain Content Delivery Network Automation Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Code Review Performance A/B Testing
 Happiness is not something ready made. It comes from your own actions. Database Indexing Version Control API Gateway Optimization CI/CD Distributed Systems OAuth
 Success usually comes to those who are too busy to be looking for it. JWT Data Pipeline Performance Message Queue OAuth Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication.
+Difficult roads often lead to beautiful destinations. DNS Routing Multi-threading Cloud JavaScript Container Orchestration
