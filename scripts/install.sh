@@ -10,3 +10,4 @@ API Server Response Kubernetes Parallel Processing Kafka Agile
 UX Optimization Kafka RabbitMQ Framework Blockchain Cache Invalidation Do what you love and the money will follow. Content Delivery Network Great things never come from comfort zones.
 Containerization Neural Networks Content Delivery Network Pull Request DevOps Code Review API Success is how high you bounce when you hit bottom. Automation
 Performance I find that the harder I work, the more luck I seem to have. Latency Optimization Code Review Don't be afraid to give up the good to go for the great. Agile React WebSockets
+Code Review Agile Innovation distinguishes between a leader and a follower. Data Pipeline API Gateway NLP Docker Pull Request
