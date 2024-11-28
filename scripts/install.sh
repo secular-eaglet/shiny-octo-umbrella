@@ -8,3 +8,4 @@ Logging WebSockets API Gateway Success doesn’t just find you. You have to go out
 Microservices Machine Learning Message Queue I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Difficult roads often lead to beautiful destinations.
 API Server Response Kubernetes Parallel Processing Kafka Agile
 UX Optimization Kafka RabbitMQ Framework Blockchain Cache Invalidation Do what you love and the money will follow. Content Delivery Network Great things never come from comfort zones.
+Containerization Neural Networks Content Delivery Network Pull Request DevOps Code Review API Success is how high you bounce when you hit bottom. Automation
