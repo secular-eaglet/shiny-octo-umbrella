@@ -6,3 +6,4 @@ Great things never come from comfort zones. Backend Do what you love and the mon
 Cloud Optimization Multi-threading Virtual Machines Server Response OAuth JavaScript
 Sharding CI/CD Lambda Functions Monitoring Data Pipeline Backend Dream big and dare to fail. Big Data
 Optimization Replica Set Container Orchestration Dream big and dare to fail. DNS Routing GraphQL RabbitMQ Testing
+NLP Big Data GraphQL Success usually comes to those who are too busy to be looking for it. Virtual Machines
