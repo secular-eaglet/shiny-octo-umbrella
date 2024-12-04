@@ -6,3 +6,4 @@ Dream big and dare to fail. Load Balancing Message Queue Backend Pull Request Co
 Monitoring Big Data Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Performance Load Balancing Firewalls Sharding Lambda Functions Parallel Processing Machine Learning Event-driven Architecture Success is not in what you have, but who you are. RabbitMQ
 Logging WebSockets API Gateway Success doesn’t just find you. You have to go out and get it. NLP I find that the harder I work, the more luck I seem to have. Artificial Intelligence Work hard in silence, let your success be your noise. Security Firewalls Neural Networks
 Microservices Machine Learning Message Queue I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Difficult roads often lead to beautiful destinations.
+API Server Response Kubernetes Parallel Processing Kafka Agile
