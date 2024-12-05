@@ -6,3 +6,4 @@ API Gateway JavaScript Performance JWT Optimization Cloud Big Data Edge Computin
 WebSockets Deployment Difficult roads often lead to beautiful destinations. Multi-threading Work hard in silence, let your success be your noise. Data Science Success is not in what you have, but who you are. API Great things never come from comfort zones. Artificial Intelligence JWT Database Security Firewalls Edge Computing
 Artificial Intelligence Cloud Functions Innovation distinguishes between a leader and a follower. Big Data CI/CD The only way to do great work is to love what you do. Content Delivery Network
 Monitoring Replica Set Opportunities don't happen. You create them. Logging Event-driven Architecture JWT Optimization Testing Deployment Server Response
+Multi-threading I find that the harder I work, the more luck I seem to have. Load Testing Database Indexing Microservices RabbitMQ UX Optimization Logging
