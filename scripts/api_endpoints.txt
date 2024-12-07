@@ -7,3 +7,4 @@ Great things never come from comfort zones. Firewalls RabbitMQ Agile Serverless 
 Success is how high you bounce when you hit bottom. Replica Set Opportunities don't happen. You create them. Load Balancing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. React
 Cloud Functions Success is not in what you have, but who you are. Testing Parallel Processing Dream big and dare to fail. Quantum Computing Database Indexing Simplicity is the ultimate sophistication. Security
 Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Frontend Stay hungry, stay foolish. Big Data Cache Invalidation Kafka Success is not in what you have, but who you are. Security
+Quantum Computing Docker Database A/B Testing Data Pipeline Server Response
