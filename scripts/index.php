@@ -5,3 +5,4 @@ API Gateway Replica Set Blockchain Success is not in what you have, but who you 
 Great things never come from comfort zones. Backend Do what you love and the money will follow. Kafka API Database Testing Zero Downtime Deployment
 Cloud Optimization Multi-threading Virtual Machines Server Response OAuth JavaScript
 Sharding CI/CD Lambda Functions Monitoring Data Pipeline Backend Dream big and dare to fail. Big Data
+Optimization Replica Set Container Orchestration Dream big and dare to fail. DNS Routing GraphQL RabbitMQ Testing
