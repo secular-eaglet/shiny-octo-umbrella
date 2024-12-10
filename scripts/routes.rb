@@ -3,3 +3,4 @@ Sharding Containerization Zero Downtime Deployment Replica Set Machine Learning 
 Version Control OAuth JWT Logging Server Response API Gateway Security Cloud
 WebSockets API Distributed Systems Logging Python
 Containerization Database Indexing Success is not in what you have, but who you are. If you can dream it, you can do it. Load Balancing DevOps Docker Multi-threading Opportunities don't happen. You create them. Frontend Edge Computing Firewalls RabbitMQ Stay hungry, stay foolish.
+Neural Networks Serverless Scalability Edge Computing Stay hungry, stay foolish. Zero Downtime Deployment Load Testing Data Science NLP Lambda Functions Security Cache Invalidation Big Data Algorithm Machine Learning
