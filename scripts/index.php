@@ -4,3 +4,4 @@ Kafka Latency Optimization Success is not in what you have, but who you are. Suc
 API Gateway Replica Set Blockchain Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. WebSockets Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Data Science Containerization Innovation distinguishes between a leader and a follower. Quantum Computing Multi-threading Scalability
 Great things never come from comfort zones. Backend Do what you love and the money will follow. Kafka API Database Testing Zero Downtime Deployment
 Cloud Optimization Multi-threading Virtual Machines Server Response OAuth JavaScript
+Sharding CI/CD Lambda Functions Monitoring Data Pipeline Backend Dream big and dare to fail. Big Data

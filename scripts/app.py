@@ -9,3 +9,4 @@ Data Pipeline Success is not in what you have, but who you are. Load Testing CI/
 If you can dream it, you can do it. Logging OAuth Server Response To be the best, you must be able to handle the worst. IoT Sharding Stay hungry, stay foolish. Cache Invalidation Pull Request JWT Success is not in what you have, but who you are. Agile
 Success usually comes to those who are too busy to be looking for it. Version Control Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Data Science
 Frontend JavaScript Scalability Sharding If you can dream it, you can do it. Neural Networks Cloud Functions Success is how high you bounce when you hit bottom. CI/CD
+JWT Dream big and dare to fail. Message Queue Container Orchestration Lambda Functions WebSockets
