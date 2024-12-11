@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. Lambda Functions GraphQL Loa
 Multi-threading Neural Networks Lambda Functions Server Response Database Microservices Machine Learning Big Data
 Great things never come from comfort zones. Firewalls RabbitMQ Agile Serverless Optimization
 Success is how high you bounce when you hit bottom. Replica Set Opportunities don't happen. You create them. Load Balancing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. React
+Cloud Functions Success is not in what you have, but who you are. Testing Parallel Processing Dream big and dare to fail. Quantum Computing Database Indexing Simplicity is the ultimate sophistication. Security
