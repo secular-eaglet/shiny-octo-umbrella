@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Neural Networks Framework DNS 
 Success is how high you bounce when you hit bottom. Lambda Functions GraphQL Load Balancing Artificial Intelligence JavaScript Great things never come from comfort zones. React Serverless Stay hungry, stay foolish.
 Multi-threading Neural Networks Lambda Functions Server Response Database Microservices Machine Learning Big Data
 Great things never come from comfort zones. Firewalls RabbitMQ Agile Serverless Optimization
+Success is how high you bounce when you hit bottom. Replica Set Opportunities don't happen. You create them. Load Balancing Work hard in silence, let your success be your noise. Stay hungry, stay foolish. React
