@@ -6,3 +6,4 @@ Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Neural Net
 Zero Downtime Deployment Frontend If you can dream it, you can do it. Dream big and dare to fail. NLP Version Control DNS Routing Content Delivery Network Firewalls Database IoT Neural Networks Kubernetes Framework Docker
 Security WebSockets RabbitMQ JavaScript UX Optimization JWT If you can dream it, you can do it. Kafka Framework Blockchain Cloud Functions Container Orchestration
 If you can dream it, you can do it. JWT Cloud Functions Database Indexing Do what you love and the money will follow. Data Pipeline Event-driven Architecture Data Science Load Testing
+To be the best, you must be able to handle the worst. Sharding RabbitMQ Multi-threading Frontend
