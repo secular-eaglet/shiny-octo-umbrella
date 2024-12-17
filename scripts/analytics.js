@@ -11,3 +11,4 @@ The only way to do great work is to love what you do. Stay hungry, stay foolish.
 Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Big Data Data Science DevOps NLP Version Control
 API Server Response Great things never come from comfort zones. Distributed Systems Security Agile WebSockets Version Control Firewalls API Gateway
 Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. WebSockets Success usually comes to those who are too busy to be looking for it. API Gateway Serverless
+Backend Distributed Systems Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Security DNS Routing Great things never come from comfort zones.
