@@ -3,3 +3,4 @@ Neural Networks DNS Routing The only way to do great work is to love what you do
 Version Control Scalability DNS Routing Big Data Sharding Algorithm API Gateway Firewalls API JWT Distributed Systems Load Balancing Replica Set
 Dream big and dare to fail. Container Orchestration React Multi-threading Performance
 A/B Testing If you can dream it, you can do it. Kafka UX Optimization To be the best, you must be able to handle the worst. Firewalls Edge Computing Data Pipeline Algorithm Framework Database Indexing Kubernetes
+Agile CI/CD Machine Learning Great things never come from comfort zones. Work hard in silence, let your success be your noise. RabbitMQ React Server Response Stay hungry, stay foolish. Deployment
