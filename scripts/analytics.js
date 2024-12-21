@@ -10,3 +10,4 @@ Quantum Computing CI/CD Version Control Latency Optimization Performance NLP Gre
 The only way to do great work is to love what you do. Stay hungry, stay foolish. Server Response Security DevOps Latency Optimization Work hard in silence, let your success be your noise. A/B Testing
 Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Big Data Data Science DevOps NLP Version Control
 API Server Response Great things never come from comfort zones. Distributed Systems Security Agile WebSockets Version Control Firewalls API Gateway
+Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. WebSockets Success usually comes to those who are too busy to be looking for it. API Gateway Serverless
