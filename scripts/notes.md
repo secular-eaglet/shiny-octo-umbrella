@@ -5,3 +5,4 @@ Artificial Intelligence Python Sharding Event-driven Architecture Automation Dat
 Data Science Algorithm Edge Computing Database Performance Act as if what you do makes a difference. It does. Kubernetes Predictive Analytics
 Framework Cache Invalidation Opportunities don't happen. You create them. Backend A/B Testing Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are.
 Work hard in silence, let your success be your noise. Backend Event Sourcing Agile NLP Lambda Functions Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Quantum Computing Load Testing Difficult roads often lead to beautiful destinations.
+Distributed Systems Happiness is not something ready made. It comes from your own actions. Pull Request Server Response To be the best, you must be able to handle the worst. Database Indexing Cloud Functions Automation
