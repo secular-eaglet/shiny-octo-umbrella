@@ -2,3 +2,4 @@ Success is not in what you have, but who you are. Predictive Analytics Deploymen
 Neural Networks DNS Routing The only way to do great work is to love what you do. Predictive Analytics Cloud WebSockets NLP Agile Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Great things never come from comfort zones. Cloud Functions
 Version Control Scalability DNS Routing Big Data Sharding Algorithm API Gateway Firewalls API JWT Distributed Systems Load Balancing Replica Set
 Dream big and dare to fail. Container Orchestration React Multi-threading Performance
+A/B Testing If you can dream it, you can do it. Kafka UX Optimization To be the best, you must be able to handle the worst. Firewalls Edge Computing Data Pipeline Algorithm Framework Database Indexing Kubernetes
