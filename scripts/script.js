@@ -13,3 +13,4 @@ Great things never come from comfort zones. WebSockets Success is how high you b
 Predictive Analytics Data Pipeline Multi-threading Blockchain Load Balancing Agile Firewalls JavaScript
 JWT Cloud Functions Simplicity is the ultimate sophistication. Testing Neural Networks Agile RabbitMQ Performance Virtual Machines If you can dream it, you can do it. Quantum Computing Database Indexing Load Testing Do what you love and the money will follow. Message Queue
 NLP Cache Invalidation Docker Testing API Gateway Distributed Systems Lambda Functions Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Latency Optimization Algorithm
+DevOps Load Balancing Cloud Cache Invalidation API Gateway Performance Security Simplicity is the ultimate sophistication. Message Queue IoT Framework To be the best, you must be able to handle the worst.
