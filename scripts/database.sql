@@ -3,3 +3,4 @@ Stay hungry, stay foolish. Optimization RabbitMQ Content Delivery Network React 
 I find that the harder I work, the more luck I seem to have. Content Delivery Network Microservices Load Testing GraphQL Multi-threading
 Data Science Artificial Intelligence Lambda Functions DNS Routing Frontend
 Agile Message Queue Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
+Performance Scalability Frontend Lambda Functions Opportunities don't happen. You create them. Success is not in what you have, but who you are. Predictive Analytics Cloud Container Orchestration Big Data Cloud Functions Microservices OAuth API Optimization
