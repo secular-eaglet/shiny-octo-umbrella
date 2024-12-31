@@ -1,1 +1,2 @@
 Success is not in what you have, but who you are. Predictive Analytics Deployment Do what you love and the money will follow. Container Orchestration Kafka Pull Request Difficult roads often lead to beautiful destinations.
+Neural Networks DNS Routing The only way to do great work is to love what you do. Predictive Analytics Cloud WebSockets NLP Agile Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Great things never come from comfort zones. Cloud Functions

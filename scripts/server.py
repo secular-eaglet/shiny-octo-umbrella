@@ -8,3 +8,4 @@ Blockchain Big Data Opportunities don't happen. You create them. Quantum Computi
 Edge Computing Pull Request I find that the harder I work, the more luck I seem to have. Deployment Dream big and dare to fail. IoT
 JavaScript Edge Computing Testing Cloud Functions Serverless Distributed Systems IoT Neural Networks Do what you love and the money will follow. Containerization Load Testing GraphQL
 GraphQL Python A/B Testing Message Queue Success doesn’t just find you. You have to go out and get it. OAuth Happiness is not something ready made. It comes from your own actions. Automation Docker Virtual Machines Load Testing API Gateway Backend
+Edge Computing Cloud Functions JWT Zero Downtime Deployment Version Control Frontend Act as if what you do makes a difference. It does.
