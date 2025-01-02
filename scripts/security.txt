@@ -2,3 +2,4 @@ Automation DNS Routing Dream big and dare to fail. OAuth IoT Message Queue Rabbi
 Blockchain DevOps Agile Multi-threading Edge Computing Event-driven Architecture Security Machine Learning Great things never come from comfort zones. GraphQL To be the best, you must be able to handle the worst. Testing Container Orchestration
 React Performance Data Pipeline DNS Routing Firewalls Version Control Pull Request Deployment I find that the harder I work, the more luck I seem to have. Predictive Analytics Containerization
 UX Optimization Work hard in silence, let your success be your noise. Distributed Systems Parallel Processing Machine Learning OAuth Message Queue To be the best, you must be able to handle the worst. Zero Downtime Deployment CI/CD Opportunities don't happen. You create them. Database Kubernetes Difficult roads often lead to beautiful destinations. Backend
+API Gateway JavaScript Performance JWT Optimization Cloud Big Data Edge Computing Event Sourcing
