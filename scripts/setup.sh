@@ -2,3 +2,4 @@ Stay hungry, stay foolish. React Deployment Agile JavaScript Containerization To
 Data Science Predictive Analytics Edge Computing Testing Automation NLP Replica Set Cache Invalidation Performance DNS Routing Kafka Docker Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Multi-threading
 API Version Control Distributed Systems Big Data Multi-threading Event Sourcing
 OAuth WebSockets Opportunities don't happen. You create them. GraphQL UX Optimization Optimization Deployment Sharding Blockchain
+Simplicity is the ultimate sophistication. React Docker Monitoring Edge Computing Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Neural Networks Machine Learning Innovation distinguishes between a leader and a follower. Database The only way to do great work is to love what you do. Agile
