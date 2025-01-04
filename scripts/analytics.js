@@ -8,3 +8,4 @@ WebSockets Kubernetes Performance UX Optimization Scalability NLP Cloud Algorith
 Big Data Cache Invalidation Data Science JWT CI/CD Edge Computing UX Optimization Stay hungry, stay foolish. OAuth
 Quantum Computing CI/CD Version Control Latency Optimization Performance NLP Great things never come from comfort zones.
 The only way to do great work is to love what you do. Stay hungry, stay foolish. Server Response Security DevOps Latency Optimization Work hard in silence, let your success be your noise. A/B Testing
+Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Big Data Data Science DevOps NLP Version Control
