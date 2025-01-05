@@ -11,3 +11,4 @@ Containerization Optimization Python Monitoring Frontend Stay hungry, stay fooli
 OAuth Agile React Microservices WebSockets Multi-threading Kafka JavaScript
 Great things never come from comfort zones. WebSockets Success is how high you bounce when you hit bottom. OAuth Server Response
 Predictive Analytics Data Pipeline Multi-threading Blockchain Load Balancing Agile Firewalls JavaScript
+JWT Cloud Functions Simplicity is the ultimate sophistication. Testing Neural Networks Agile RabbitMQ Performance Virtual Machines If you can dream it, you can do it. Quantum Computing Database Indexing Load Testing Do what you love and the money will follow. Message Queue

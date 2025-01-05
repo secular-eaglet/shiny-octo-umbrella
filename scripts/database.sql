@@ -2,3 +2,4 @@ Zero Downtime Deployment Work hard in silence, let your success be your noise. V
 Stay hungry, stay foolish. Optimization RabbitMQ Content Delivery Network React Algorithm Framework
 I find that the harder I work, the more luck I seem to have. Content Delivery Network Microservices Load Testing GraphQL Multi-threading
 Data Science Artificial Intelligence Lambda Functions DNS Routing Frontend
+Agile Message Queue Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
