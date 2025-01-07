@@ -7,3 +7,4 @@ Container Orchestration Agile Stay hungry, stay foolish. OAuth Code Review Frame
 Blockchain Big Data Opportunities don't happen. You create them. Quantum Computing Simplicity is the ultimate sophistication. Container Orchestration Latency Optimization
 Edge Computing Pull Request I find that the harder I work, the more luck I seem to have. Deployment Dream big and dare to fail. IoT
 JavaScript Edge Computing Testing Cloud Functions Serverless Distributed Systems IoT Neural Networks Do what you love and the money will follow. Containerization Load Testing GraphQL
+GraphQL Python A/B Testing Message Queue Success doesn’t just find you. You have to go out and get it. OAuth Happiness is not something ready made. It comes from your own actions. Automation Docker Virtual Machines Load Testing API Gateway Backend
