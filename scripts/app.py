@@ -6,3 +6,4 @@ Security A/B Testing Edge Computing DevOps Innovation distinguishes between a le
 Message Queue JWT Serverless Stay hungry, stay foolish. Backend Parallel Processing Event-driven Architecture Framework Pull Request Testing Firewalls IoT API If you can dream it, you can do it.
 API Replica Set Cache Invalidation Server Response To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Message Queue
 Data Pipeline Success is not in what you have, but who you are. Load Testing CI/CD Docker Microservices Load Balancing Multi-threading Database Indexing Success is how high you bounce when you hit bottom.
+If you can dream it, you can do it. Logging OAuth Server Response To be the best, you must be able to handle the worst. IoT Sharding Stay hungry, stay foolish. Cache Invalidation Pull Request JWT Success is not in what you have, but who you are. Agile
