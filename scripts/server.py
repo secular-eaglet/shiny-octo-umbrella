@@ -6,3 +6,4 @@ Load Balancing Happiness is not something ready made. It comes from your own act
 Container Orchestration Agile Stay hungry, stay foolish. OAuth Code Review Framework Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Algorithm JWT Lambda Functions Database
 Blockchain Big Data Opportunities don't happen. You create them. Quantum Computing Simplicity is the ultimate sophistication. Container Orchestration Latency Optimization
 Edge Computing Pull Request I find that the harder I work, the more luck I seem to have. Deployment Dream big and dare to fail. IoT
+JavaScript Edge Computing Testing Cloud Functions Serverless Distributed Systems IoT Neural Networks Do what you love and the money will follow. Containerization Load Testing GraphQL
