@@ -5,3 +5,4 @@ Framework Monitoring Kubernetes Optimization Dream big and dare to fail. Zero Do
 Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Neural Networks Don't be afraid to give up the good to go for the great. Serverless Latency Optimization NLP Do what you love and the money will follow. DevOps
 Zero Downtime Deployment Frontend If you can dream it, you can do it. Dream big and dare to fail. NLP Version Control DNS Routing Content Delivery Network Firewalls Database IoT Neural Networks Kubernetes Framework Docker
 Security WebSockets RabbitMQ JavaScript UX Optimization JWT If you can dream it, you can do it. Kafka Framework Blockchain Cloud Functions Container Orchestration
+If you can dream it, you can do it. JWT Cloud Functions Database Indexing Do what you love and the money will follow. Data Pipeline Event-driven Architecture Data Science Load Testing
