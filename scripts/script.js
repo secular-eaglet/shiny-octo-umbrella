@@ -3,3 +3,4 @@ Framework Docker Success doesn’t just find you. You have to go out and get it. W
 Optimization Load Testing Serverless Zero Downtime Deployment Python Artificial Intelligence Predictive Analytics Event Sourcing
 Kafka If you can dream it, you can do it. Containerization JavaScript Optimization Testing NLP Artificial Intelligence Version Control Load Testing GraphQL Neural Networks
 JavaScript Deployment Container Orchestration Content Delivery Network Big Data DNS Routing Algorithm Distributed Systems Automation
+Stay hungry, stay foolish. API Gateway Agile Difficult roads often lead to beautiful destinations. API Testing Edge Computing Work hard in silence, let your success be your noise. Database Great things never come from comfort zones.
