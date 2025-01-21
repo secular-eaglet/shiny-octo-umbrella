@@ -1,0 +1,1 @@
+Edge Computing Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Distributed Systems React Backend Quantum Computing Lambda Functions Neural Networks Python JavaScript
