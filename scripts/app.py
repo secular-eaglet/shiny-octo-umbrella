@@ -3,3 +3,4 @@ Optimization Latency Optimization Event-driven Architecture Work hard in silence
 Event Sourcing Dream big and dare to fail. Blockchain Optimization Monitoring Neural Networks Load Balancing Opportunities don't happen. You create them. Parallel Processing
 Data Science Message Queue Scalability Edge Computing Parallel Processing Cache Invalidation Kafka Testing JavaScript
 Security A/B Testing Edge Computing DevOps Innovation distinguishes between a leader and a follower. Database Indexing Cache Invalidation
+Message Queue JWT Serverless Stay hungry, stay foolish. Backend Parallel Processing Event-driven Architecture Framework Pull Request Testing Firewalls IoT API If you can dream it, you can do it.
