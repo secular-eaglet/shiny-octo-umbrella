@@ -1,2 +1,3 @@
 Machine Learning Kafka Load Testing Framework Act as if what you do makes a difference. It does. Parallel Processing Deployment
 DNS Routing Server Response React API Gateway Database Docker NLP Replica Set DevOps Frontend To be the best, you must be able to handle the worst. Multi-threading
+A/B Testing Logging Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Performance Event Sourcing Version Control Testing Database Artificial Intelligence Machine Learning Virtual Machines Difficult roads often lead to beautiful destinations. Code Review Database Indexing

@@ -3,3 +3,4 @@ Success doesn’t just find you. You have to go out and get it. WebSockets Content
 Parallel Processing Replica Set Big Data Great things never come from comfort zones. Agile Load Balancing Sharding Event Sourcing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. React Code Review
 DevOps Optimization Code Review Parallel Processing Blockchain Algorithm Data Pipeline Dream big and dare to fail. Agile Data Science Cloud Functions Logging Success is how high you bounce when you hit bottom. WebSockets
 Logging Multi-threading Performance Innovation distinguishes between a leader and a follower. Containerization Success is not in what you have, but who you are. Quantum Computing Code Review
+Security Optimization Multi-threading Kubernetes Lambda Functions
