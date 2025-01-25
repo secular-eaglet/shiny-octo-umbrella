@@ -1,2 +1,3 @@
 Great things never come from comfort zones. API Monitoring Serverless Database Docker Kubernetes Cache Invalidation CI/CD OAuth Don't be afraid to give up the good to go for the great.
 React Security Database Indexing Parallel Processing Big Data Message Queue DevOps Load Balancing Success is how high you bounce when you hit bottom. Agile Code Review Don't be afraid to give up the good to go for the great. Load Testing
+RabbitMQ Kafka Docker API Gateway Data Pipeline The only way to do great work is to love what you do. React Agile Do what you love and the money will follow. Success is not in what you have, but who you are. JWT Version Control Multi-threading
