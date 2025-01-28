@@ -1,2 +1,3 @@
 I find that the harder I work, the more luck I seem to have. JWT Simplicity is the ultimate sophistication. WebSockets Testing Cloud Functions Database Indexing Container Orchestration Security
 Version Control I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Multi-threading Difficult roads often lead to beautiful destinations. Data Pipeline Serverless Data Science
+Quantum Computing Containerization CI/CD Pull Request Database Indexing
