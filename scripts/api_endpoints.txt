@@ -1,3 +1,4 @@
 Agile A/B Testing Success doesn’t just find you. You have to go out and get it. Load Testing Parallel Processing JavaScript Great things never come from comfort zones. Cache Invalidation DevOps Testing
 Framework Data Pipeline Happiness is not something ready made. It comes from your own actions. Code Review IoT Security
 Success is not in what you have, but who you are. Neural Networks Framework DNS Routing Happiness is not something ready made. It comes from your own actions. Virtual Machines Monitoring Zero Downtime Deployment Data Pipeline
+Success is how high you bounce when you hit bottom. Lambda Functions GraphQL Load Balancing Artificial Intelligence JavaScript Great things never come from comfort zones. React Serverless Stay hungry, stay foolish.
