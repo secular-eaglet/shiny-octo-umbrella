@@ -1,3 +1,4 @@
 Database Code Review Server Response Parallel Processing Difficult roads often lead to beautiful destinations. Pull Request Algorithm Cloud Functions JavaScript Success is not in what you have, but who you are. Sharding UX Optimization Cloud Containerization
 Testing Big Data Framework Cloud Functions Server Response JWT Python Version Control
 Optimization Innovation distinguishes between a leader and a follower. Data Science Neural Networks OAuth Framework Python Data Pipeline Great things never come from comfort zones. Automation Success doesn’t just find you. You have to go out and get it. WebSockets Event Sourcing Load Testing
+Act as if what you do makes a difference. It does. Deployment Content Delivery Network DNS Routing Container Orchestration Sharding Great things never come from comfort zones. Framework Big Data Predictive Analytics
