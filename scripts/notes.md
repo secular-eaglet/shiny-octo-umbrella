@@ -1,2 +1,3 @@
 UX Optimization Event Sourcing Microservices JWT DevOps WebSockets Work hard in silence, let your success be your noise. Python Innovation distinguishes between a leader and a follower. Cloud Functions
 Code Review Parallel Processing Database Quantum Computing Success is not in what you have, but who you are. Sharding Python Testing API DevOps Logging I find that the harder I work, the more luck I seem to have.
+Quantum Computing Backend Event-driven Architecture WebSockets RabbitMQ Container Orchestration Security Serverless React Success doesn’t just find you. You have to go out and get it. Firewalls Server Response Distributed Systems Don't be afraid to give up the good to go for the great.
