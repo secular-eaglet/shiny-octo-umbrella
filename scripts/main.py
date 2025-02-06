@@ -1,1 +1,2 @@
 Pull Request Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Containerization Database CI/CD Predictive Analytics Content Delivery Network Cloud Functions RabbitMQ
+Frontend Scalability Performance Do what you love and the money will follow. Simplicity is the ultimate sophistication. WebSockets Don't be afraid to give up the good to go for the great. Deployment Quantum Computing Success usually comes to those who are too busy to be looking for it.
